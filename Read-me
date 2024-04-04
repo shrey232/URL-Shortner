@@ -1,0 +1,5 @@
+Run the code on Vs code to make it work Efficiently.
+First of all please install node modules for the code by entering --- " npm i init".
+Then User will be able to access the code and use it without any obstructions.
+Then Run the code by entering ---"nodemon index.js"
+Now the code will be running and You access shortend URLs and make new ones and check which URL is accessed how many times by the users.
